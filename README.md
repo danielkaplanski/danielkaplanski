@@ -34,7 +34,7 @@
 
 ### 🤝 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kap%C5%82a%C5%84ski-4b6098271/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)]  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danielkaplanski11@gmail.com)  
 
 ---
 
