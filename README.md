@@ -10,13 +10,13 @@
 - 💻 **Full-Stack Developer**
 - 🎓 6th Semester Computer Science Student  
 - ⚡ Passionate about **mobile applications & backend solutions**  
-
+- 🎯 Portfolio: [Visit My Portfolio]([https://yourportfolio.com](https://danielkaplanski.github.io/)) 
 
 ---
 
 ### 🛠️ **Tech Stack**  
 
-#### Technologies& Frameworks   
+#### Technologies & Frameworks   
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -30,10 +30,14 @@
 
 ---
 
+#### **Check out my portfolio!**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+---
 
 ### 🤝 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-kap%C5%82a%C5%84ski-4b6098271/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:danielkaplanski11@gmail.com)  
+
 
 
