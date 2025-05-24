@@ -10,7 +10,7 @@
 - 💻 **Full-Stack Developer**
 - 🎓 6th Semester Computer Science Student  
 - ⚡ Passionate about **mobile applications & backend solutions**  
-- 🎯 **Portfolio:** [Visit My Portfolio](https://yourportfolio.com) *(replace with your link)* 
+- 🎯 **Portfolio:** [Visit My Portfolio](anielkaplanski.github.io) 
 
 ---
 
